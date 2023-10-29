@@ -54,4 +54,5 @@ print("---------------------------------------------------------------")
 ![model](4.png)
 
 ## Result :
+Thus the program is written successfuly.
 
